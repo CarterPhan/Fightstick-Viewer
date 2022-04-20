@@ -5,7 +5,7 @@ The code was derived off of the backbone of an example code of pygame's docs on 
 
 The basis of the GUI is based off of the GUI of the fightstick input viewer from https://gamepadviewer.com/
 
-This is purely a personal project. There are definitely better input viewers out there, but this is mainly for me to learn about Python and pygame, and push personal features for my own use. If this program benefits you in any way, feel free to download and use on your own.
+This is purely a personal project. There are definitely better input viewers out there for fighsticks, but this is mainly a learning project. I also am upset that there is no proper input viewer for Smash All-Button controllers, and the goal is to eventually use this framework to create my own input viewer. If this program benefits you in any way, feel free to download and use on your own.
 
 To install, just download the Fightstick_Viewer.py and double click to run the script. You will need Python 3 and pygame installed on your own computer.
 
