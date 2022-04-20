@@ -3,7 +3,7 @@ A personal project using pygame to detect inputs of a fightstick and output to a
 
 The code was derived off of the backbone of an example code of pygame's docs on the joystick module at https://www.pygame.org/docs/ref/joystick.html
 
-The basis of the GUI is based off of the GUI of the fighstick input viewer from https://gamepadviewer.com/
+The basis of the GUI is based off of the GUI of the fightstick input viewer from https://gamepadviewer.com/
 
 This is purely a personal project. There are definitely better input viewers out there, but this is mainly for me to learn about Python and pygame, and push personal features for my own use. If this program benefits you in any way, feel free to download and use on your own.
 
